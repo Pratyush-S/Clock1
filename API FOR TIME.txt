@@ -1,0 +1,1 @@
+http://api.timezonedb.com/v2/get-time-zone?key=D70CN5FUSM98&format=json&fields=formatted&by=zone&zone=Asia/Kolkata
